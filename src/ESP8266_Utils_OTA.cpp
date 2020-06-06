@@ -5,7 +5,7 @@
 #include <ArduinoOTA.h>
 
 
-void InitOTA()
+void initOTA()
 {
 
   // Port defaults to 8266

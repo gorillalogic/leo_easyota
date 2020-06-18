@@ -1,29 +1,26 @@
 {
-    "name": "Leo_EasyOTA",
-    "authors": [
-      {
-        "name": "Leonardo Cordero",
-        "email": "leonardo.cordero@gorillalogic.com",
-        "url": ""
-      },
-      {
-        "name": "Emmanuel Mora",
-        "email": "emmanuel.mora@gorillalogic.com",
-        "url": ""
-      }
-    ],
-    "keywords": "OTA, Over The Air Updates, ArduinoOTA",
-    "description": "Library which makes it easy to add support for Over-The-Air (OTA) updates to your project. Works with ESP8266 and ESP32.",
-    "repository": {
-      "type": "git",
-      "url": "https://github.com/gorillalogic/leo_easyota"
+  "name": "Leo_EasyOTA",
+  "authors": [
+    {
+      "name": "Leonardo Cordero",
+      "email": "leonardo.cordero@gorillalogic.com"
     },
-    "frameworks": "arduino",
-    "platforms": [
-      "esp8266",
-      "esp32",
-      "espressif32",
-      "espressif8266"
-    ]
-  }
-  
+    {
+      "name": "Emmanuel Mora",
+      "email": "emmanuel.mora@gorillalogic.com"
+    }
+  ],
+  "keywords": "OTA, Over The Air Updates, ArduinoOTA",
+  "description": "Library which makes it easy to add support for Over-The-Air (OTA) updates to your project. Works with ESP8266 and ESP32.",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/gorillalogic/leo_easyota"
+  },
+  "frameworks": "arduino",
+  "platforms": [
+    "esp8266",
+    "esp32",
+    "espressif32",
+    "espressif8266"
+  ]
+}
